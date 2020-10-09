@@ -24,9 +24,20 @@ Example
 node app.js remove --title="Maths notes"
 ```
 
+### List all notes
+```
+node app.js list
+```
 
-* List all notes
+### Read note
 ```
-node app.js remove --title=[title]
+node app.js read --title=[title]
 ```
+
+Example
+```
+node app.js read --title="Poem"
+```
+
+
 
