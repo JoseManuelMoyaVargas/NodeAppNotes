@@ -4,9 +4,11 @@ Simple note-taking app using Node.js.
 ## Run the app
 Use git clone
 ```
-git clone 
+git clone https://github.com/JoseManuelMoyaVargas/NodeAppNotes.git
 ```
 or download the zip file.
+Navigate to the folder using 'cd' and run 
+
 
 
 
