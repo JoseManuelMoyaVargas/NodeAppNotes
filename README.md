@@ -5,7 +5,7 @@ Simple note-taking app using Node.js.
 We have several commands to interact with the command-line application. 
 [title] has to be a string.  
 [body] has to be a string.
-* Add note
+### Add note
 ```
 node app.js add --title=[title] --body=[body]
 ```
@@ -14,7 +14,7 @@ Example
 node app.js add --title="Shopping list" --body="oranges,milk"
 ```
 
-* Remove note
+### Remove note
 ```
 node app.js remove --title=[title]
 ```
