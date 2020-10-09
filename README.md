@@ -1,6 +1,15 @@
 # NodeAppNotes
 Simple note-taking app using Node.js.
 
+## Run the app
+Use git clone
+```
+git clone 
+```
+or download the zip file.
+
+
+
 ## Using the app
 We have several commands to interact with the command-line application. 
 [title] has to be a string.  
