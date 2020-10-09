@@ -2,15 +2,13 @@
 Simple note-taking app using Node.js.
 
 ## Run the app
-Use git clone
+Use `git clone`
 ```
 git clone https://github.com/JoseManuelMoyaVargas/NodeAppNotes.git
 ```
 or download the zip file.
-Navigate to the folder using 'cd' and run 
-
-
-
+Navigate to the folder using `cd` and run `npm install`.  
+Then you can use the app writing the available commands.
 
 ## Using the app
 We have several commands to interact with the command-line application. 
